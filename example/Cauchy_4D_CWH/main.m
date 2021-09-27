@@ -10,7 +10,7 @@ cvx_clear;
 
 % add path
 addpath '../'
-addpath '../../../'
+addpath '../../'
 
 %%%%%%%%%%%%%%%%%%%%%%%%
 % problem setup
